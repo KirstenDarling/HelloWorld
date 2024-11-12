@@ -1,0 +1,14 @@
+/Users/kb/HellowWord/bin/Debug/net8.0/HellowWord
+/Users/kb/HellowWord/bin/Debug/net8.0/HellowWord.deps.json
+/Users/kb/HellowWord/bin/Debug/net8.0/HellowWord.runtimeconfig.json
+/Users/kb/HellowWord/bin/Debug/net8.0/HellowWord.dll
+/Users/kb/HellowWord/bin/Debug/net8.0/HellowWord.pdb
+/Users/kb/HellowWord/obj/Debug/net8.0/HellowWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kb/HellowWord/obj/Debug/net8.0/HellowWord.AssemblyInfoInputs.cache
+/Users/kb/HellowWord/obj/Debug/net8.0/HellowWord.AssemblyInfo.cs
+/Users/kb/HellowWord/obj/Debug/net8.0/HellowWord.csproj.CoreCompileInputs.cache
+/Users/kb/HellowWord/obj/Debug/net8.0/HellowWord.dll
+/Users/kb/HellowWord/obj/Debug/net8.0/refint/HellowWord.dll
+/Users/kb/HellowWord/obj/Debug/net8.0/HellowWord.pdb
+/Users/kb/HellowWord/obj/Debug/net8.0/HellowWord.genruntimeconfig.cache
+/Users/kb/HellowWord/obj/Debug/net8.0/ref/HellowWord.dll
